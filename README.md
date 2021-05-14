@@ -1,4 +1,4 @@
-### Hi there, thanks for visiting my profile! 👋
+### Thanks for visiting my profile! 👋
 
 - 🔭 I’m currently working on a project for Human Rights First 
 - 🌱 I’m currently learning to perfect React.js and Node
