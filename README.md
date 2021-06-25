@@ -5,6 +5,6 @@
 - 👯 I’m looking to collaborate on an upcoming Hackathon 
 - 💬 Ask me about anything! 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/michelleccodes/) | | [Email](mailto:mchen0062@gmail.com) - mchen0062@gmail.com
-- 👀 Learn more about me: [Website](https://michelleccodes.me/)
+- 👀 Learn more about me: [Website](https://michelleccodes.me/) || [Resume](https://docs.google.com/document/d/1z0HLpgZkopheVKhH6NYEcrcNCK9gT1fiWg8tS_PU_Ec/edit?usp=sharing)
 - 😄 Pronouns: she/her
 ---
